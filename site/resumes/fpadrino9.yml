@@ -1,0 +1,62 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Francisco
+  last_name: Padrino
+  motto: Perseverante , Sinceridad y Amante de la aventura
+  focus: Desarrollador web full stack, Científico de datos y Agricultura de precisión
+  summary: >
+    Soy Licenciado en Matemática, me he especializado en Modelo Matemáticos
+    y Machine Learnind, trabajando en distintas empresas como data
+    analisys,enfocados a incrementar los ingresos y asegurar la viabilidad
+    mediante un mejor entendimiento del cliente, la cuantificación de los
+    riesgos del negocio y la optimización de sus opciones de productos,
+    desarrollando modelos de clasificación y de predicción en la determinación
+    de churn para entidades financieras y empresa privadas, elaboración de metodología de segmentación, análisis de incertidumbre y minería de datos, estudios de series de tiempos y
+
+    aplicaciones financieras.
+  avatar: https://imgur.com/HCdFTwb
+  email: fpadrino9@gmail.com.com
+  phone: +34 615668181
+  website: null
+  linkedin: www.linkedin.com/in/francisco-padrino-334668151
+  github: fpadrino9
+  twitter: webjeda
+  stack-overflow: null
+  languages:
+    - idiom: Spanish
+      level: Professional
+  interests:
+    - item: Running
+    - item: Natación
+    - item: Baile
+education:
+  - degree: Licenciado de Matematica
+    university: Universidad de los Andes
+    university_logo: null
+    time: 2006 - 2012
+    details: ""
+experiences:
+  - role: smartbasegroup
+    time: 2018 - 2021 Present
+    company: Startup Hubs, caracas venezuela
+    company_logo: null
+    details: ""
+  - role: MS2 Consulting Group C,A
+    time: 2016 - 2018 Present
+    company: Startup Hubs, caracas venezuela
+    company_logo: null
+    details: null
+projects:
+  toolset:
+    - name: Python
+      level: 60%
+    - name: R
+      level: 98%
+    - name: J-S
+      level: 960%
+    - name: HTML5 & CSS
+      level: 70%
+    - name: Machine Learning
+      level: 90%
